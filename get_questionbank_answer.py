@@ -1,7 +1,7 @@
 import json
 import requests
 
-wps_sid = 'V02StmNx2jDkYJGLQ1suV7tCWs4UGuI00a5b2e57000e955a0d'
+wps_sid = 'V02SHehCr1PBOqhlfuv_HQ2AuUznmpE00aebff1d00001b78f6'
 
 cookie = {
     'wps_sid': wps_sid
