@@ -15,7 +15,15 @@ sids = [
     "V02SPoOluAnWda0dTBYTXpdetS97tyI00a16135e002684bb5c",
     "V02Sb8gxW2inr6IDYrdHK_ywJnayd6s00ab7472b0026849b17",
     "V02SwV15KQ_8n6brU98_2kLnnFUDUOw00adf3fda0026934a7f",
-    "V02SC1mOHS0RiUBxeoA8NTliH2h2NGc00a803c35002693584d"
+    "V02SC1mOHS0RiUBxeoA8NTliH2h2NGc00a803c35002693584d",
+    "c185ca410ea7eec31590507fc6bd53b91e8a46bd000b6645b8",
+    "1f19b469b864819bc6f6ccab5dadc12f4fc3e8f9000c75bf55",
+    "3ca9bd94a644a44956a7cb5db56c00ee96c4b1840000b39aab",
+    "b6ddffa0b1eed41ebdf322b1810166299fb236ec000c5c57d8",
+    "0f986dff4c9c5013f24be07082d34436a21ac6bc000c18a129",
+    "5a58420c49eaae6ee786222b33241973759a841a000c7487f1",
+    "3cb5edc22ed922931f96bbbc396262b574896acd000c536a31",
+    "acc1ad45beaaa431c2fa6a02af274bb23892de17000c30ca3f"
 ]
 
 invite_url = 'http://zt.wps.cn/2018/clock_in/api/invite'
